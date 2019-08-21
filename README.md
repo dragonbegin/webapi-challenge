@@ -26,13 +26,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+I learn to configured nodemon to deploy time dependencies and install dotenv as a production dependency to deploy using heroku.
+
 - [ ] Describe Middleware?
+
+Function that get request and responses from objects.
 
 - [ ] Describe a Resource?
 
+Data that the user can use from our API.
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+A message that update the data request status (correct request or error code message).
+
 - [ ] How can we partition our application into sub-applications?
+
+We can use Express Router.
 
 ## Project Setup
 
